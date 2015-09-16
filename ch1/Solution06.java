@@ -29,7 +29,7 @@ public class Solution06 {
   }
 
   public static void main(String[] args) {
-  	System.out.println("aabccccaaa");
+    System.out.println("aabccccaaa");
     System.out.println(compressString("aabccccaaa"));
     System.out.println("xiaqi");
     System.out.println(compressString("xiaqi"));
