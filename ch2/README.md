@@ -1,2 +1,5 @@
-One source file for one problem.
-Name files as "SolutionXX.java" - XX for 2-digit problem number.
+Homework for 11601, this is chapter 2
+Name: Qi Xia
+Andrew id: qxia
+
+
